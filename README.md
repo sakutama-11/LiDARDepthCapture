@@ -1,5 +1,6 @@
-Copied from: https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_depth_using_the_lidar_camera
-Added exporting RGBD image feature
+Copied from: Apple documentation https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_depth_using_the_lidar_camera
+
+Added feature to export RGBD image 
 
 ===============================================================================
 
