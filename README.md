@@ -1,3 +1,8 @@
+Copied from: https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_depth_using_the_lidar_camera
+Added exporting RGBD image feature
+
+===============================================================================
+
 # Capturing Depth Using the LiDAR Camera
 Access the LiDAR camera on supporting devices to capture precise depth data.
 
